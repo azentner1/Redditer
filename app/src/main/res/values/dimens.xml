@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_8">8dp</dimen>
+    <dimen name="space_32">32dp</dimen>
+    <dimen name="logo_text">32sp</dimen>
+    <dimen name="title_text">18sp</dimen>
+    <dimen name="space_16">16dp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="space_2">2dp</dimen>
+    <dimen name="space_4">4dp</dimen>
+</resources>

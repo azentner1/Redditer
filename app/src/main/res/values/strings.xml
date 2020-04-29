@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Redditer</string>
+    <string name="number_of_comments">%1$d comments | %2$d upvotes</string>
+    <string name="number_of_upvotes">%1$d upvotes</string>
+    <string name="err_posts_fetch">An error has occurred while fetching posts.</string>
+    <string name="prefixed_author">u/%1$s</string>
+    <string name="prefixed_subreddit">r/%1$s</string>
+    <string name="dash">-</string>
+    <string name="app_description">The best Reddit front page - 25 posts at the time! - browser app.\nAlso - Black and Yellow theme!</string>
+</resources>
